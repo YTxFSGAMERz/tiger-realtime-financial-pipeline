@@ -1,0 +1,6 @@
+psycopg2-binary>=2.9.9
+twelvedata>=1.4.0
+websocket-client>=1.8.0
+python-dotenv>=1.0.1
+matplotlib>=3.9.0
+rich>=13.0.0
